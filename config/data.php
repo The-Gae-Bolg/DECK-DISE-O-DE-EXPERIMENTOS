@@ -147,7 +147,7 @@ $slabIntro = [
                 'assets/videos/DisenoExperimentos_1.mp4'
             ],
 /*Slab 2*/  [
-                '<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/8b511e22-cd8d-4102-9f45-1edda9dbc63c?dark=true"></iframe>'
+                '<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/6ddfdd0e-d967-43a4-bfa9-f33a2dda4b2a?dark=true"></iframe>'
             ], 
 /*Slab 3*/  [
                 'Bienvenido, nos da gusto que nos acompañes al Slab Estadística <i>¿Para qué?</i> Aquí conocerás cómo la estadística nos guía desde la recopilación de datos, hasta su tratamiento. Es decir, desde su organización y presentación, así como su análisis e interpretación para que estos datos se conviertan en información que sea relevante para una mejor toma de decisiones.<br><br>
@@ -159,7 +159,7 @@ $slabIntro = [
                 'assets/videos/DisenoExperimentos_4.mp4'
             ],                
 /*Slab 5*/  [
-                '<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/ce6de8a8-f0e6-4fa8-879e-0270c0c8192f?dark=true"></iframe>'
+                '<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/1c023872-78e1-4f97-8dac-7311d5847da8?dark=true"></iframe>'
             ],
 /*Slab 6*/  [
                 'Estamos alegres de tenerte en este Slab, donde realizarás una prueba de hipótesis para tomar decisiones sobre una situación ficticia.<br><br>
@@ -172,7 +172,7 @@ $slabIntro = [
                 'assets/videos/DisenoExperimentos_7.mp4'
             ],
 /*Slab 8*/  [
-                '<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a9a7cf8f-ef4d-4235-b1fa-2d865c445145?dark=true"></iframe>'
+                '<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/74ac9c35-284a-4631-b620-5d3761a05b72?dark=true"></iframe>'
             ],
 /*Slab 9*/  [
                 'Bienvenido al Slab Experimentos avanzados donde revisaremos diseños de experimentos más desarrollados y aplicaremos el análisis a uno de ellos para conocer formas más poderosas de experimentación.<br><br>
